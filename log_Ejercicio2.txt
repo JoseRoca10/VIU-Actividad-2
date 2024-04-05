@@ -23,3 +23,5 @@ Author: JoseRoca10 <rocky_jose@hotmail.com>
 Date:   Fri Apr 5 17:10:32 2024 +0200
 
     first commit
+	
+Edición manual en rama feature_X
