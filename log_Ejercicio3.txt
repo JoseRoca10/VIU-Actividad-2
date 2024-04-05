@@ -46,6 +46,8 @@ Date:   Fri Apr 5 17:15:39 2024 +0200
 
 commit 00024f8bcba32cfe75a5332f793432207cf99dcf
 Author: JoseRoca10 <rocky_jose@hotmail.com>
+
+Editado
 Date:   Fri Apr 5 17:10:32 2024 +0200
 
     first commit
